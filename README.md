@@ -1,5 +1,6 @@
 # ai-catalog
-Catalogo realizado con react js
+
+Catálogo de Imágenes auto-generadas  realizado con React Js
 
 URL DEMO
 
